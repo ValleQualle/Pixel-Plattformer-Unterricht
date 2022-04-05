@@ -5164,4 +5164,11 @@ Preset:
     propertyPath: m_AssetBundleVariant
     value: 
     objectReference: {fileID: 0}
-  m_ExcludedProperties: []
+  m_ExcludedProperties:
+  - m_SpriteMode
+  - m_sRGBTexture
+  - m_AlphaIsTransparency
+  - m_IgnorePngGamma
+  - m_IsReadable
+  - m_EnableMipMap
+  - m_SpriteExtrude
