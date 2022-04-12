@@ -44,6 +44,12 @@ TagManager:
   - name: backGround
     uniqueID: 3285689261
     locked: 0
+  - name: Decoration_Back
+    uniqueID: 2984766505
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Decoration_Front
+    uniqueID: 1227484835
     locked: 0
